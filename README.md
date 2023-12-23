@@ -1,5 +1,5 @@
 # basic-automation
-
+# Oleh Muhamad Absor Dwiyana -- Tugas UAS
 
 ## Install requirements
 
@@ -17,9 +17,8 @@ go visit the official web
 https://chromedriver.chromium.org/downloads
 
 ## Setup Web
-for this test we're using laravel web for testing
-you can visit here, to access the repository
-https://github.com/agungperdananto/laravel-web
+Web yang dipakai untuk test adalah:
+https://weighted-product.jogjalab.com/login
   
 
 ## Run test
@@ -27,11 +26,11 @@ run web app at localhost using port 8000.
 
 to run test use this command line
 
-    robot project-demo/test-suite-1.robot
+    robot test.robot
 
-the result will generate at **results** directory
+the result will generate at root directory
 
 ### Robot framework docs
 https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
 
-~ good luck ~
+~ Thank You ~
